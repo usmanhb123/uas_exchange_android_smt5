@@ -482,7 +482,7 @@ class AllNewsView extends GetView<AllNewsController> {
         ],
       )),
       bottomNavigationBar: SweetNavBar(
-        currentIndex: 0,
+        currentIndex: 1,
         items: [
           SweetNavBarItem(
               sweetActive: const Icon(Icons.home),
